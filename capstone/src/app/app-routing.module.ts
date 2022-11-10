@@ -6,7 +6,7 @@ import { QueryComponent } from './query/query.component';
 const routes: Routes = [
   
     { path: '', component: WelcomeComponent },
-    { path: 'query', component: QueryComponent },
+    { path: 'nations', component: QueryComponent },
   
   ];
 
